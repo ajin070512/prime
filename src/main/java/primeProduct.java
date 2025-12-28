@@ -8,7 +8,7 @@ public class primeProduct {
         primeArray primes = new primeArray();
         array = primes.prime(num);
 
-        String results = "1";
+        String results = "1";//a question ,it do not need "1",but the "*",en,I do not know how to solve it now .I will come back then.
         for(int i = 0;i<array.length;i++){
 
             if(array[i]>0) {
